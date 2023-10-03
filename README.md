@@ -1,1 +1,1 @@
-# Machine_Learning_Curse_-SimpliLearn
+# Machine_Learning_Curse_SimpliLearn
