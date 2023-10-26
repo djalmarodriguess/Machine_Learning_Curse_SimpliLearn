@@ -7,7 +7,7 @@ This project is my endeavor to predict median house values in California using t
 ## Project Structure
 
 - [Data](https://github.com/djalmarodriguess/Machine_Learning_Curse_SimpliLearn/blob/master/Datasets/housing.csv): Contains the dataset file, "housing.csv."
-- [Project](https://github.com/djalmarodriguess/Machine_Learning_Curse_SimpliLearn/blob/master/Practice%20Project%20l.ipynb): Python code for data analysis and model building.
+- [Project](https://github.com/djalmarodriguess/Machine_Learning_Curse_SimpliLearn/blob/master/Practice%20Project%20l/Practice%20Project%20l.ipynb): Python code for data analysis and model building.
 
 ## Dependencies
 
@@ -58,7 +58,7 @@ The Random Forest Regression model outperforms the Linear Regression and Decisio
 
 ## Visual Elements
 
-For detailed visualizations and plots of the results, please refer to the project's documentation in the [Practice Project l.ipynb](https://github.com/djalmarodriguess/Machine_Learning_Curse_SimpliLearn/blob/master/Practice%20Project%20l.ipynb) file.
+For detailed visualizations and plots of the results, please refer to the project's documentation in the [Project](https://github.com/djalmarodriguess/Machine_Learning_Curse_SimpliLearn/blob/master/Practice%20Project%20l/Practice%20Project%20l.ipynb) file.
 
 ## Future Updates
 
