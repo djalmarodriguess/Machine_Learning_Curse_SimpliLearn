@@ -1,4 +1,5 @@
 # Machine Learning Course SimpliLearn
+![image](https://github.com/user-attachments/assets/e12adb86-b517-49b3-a68b-a1f795586ecb)
 
 I recently completed a comprehensive Machine Learning course that equipped me with a solid understanding of various machine learning techniques and practical skills. Here's a breakdown of what I learned and course structure:
 
